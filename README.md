@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nischay-kumar-4510ab254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nischay-kumar-4510ab254/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/masternischay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/masternischay" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/masternischay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/masternischay/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nischay-kumar-4510ab254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischay-kumar-4510ab254/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/masternischay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="masternischay" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/masternischay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masternischay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,8 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nischay-chauhan&show_icons=true&locale=en&layout=compact" alt="nischay-chauhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nischay-chauhan&show_icons=true&locale=en" alt="nischay-chauhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nischay-chauhan&" alt="nischay-chauhan" /></p>
 
 <!---
 nischay-chauhan/nischay-chauhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
