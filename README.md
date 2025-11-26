@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im' currently working on making scalable backends and managing microservices and how can i make it more efficient and automated.<br>I also like to devlop full stack applications and like to bring my ideas to life.<br>
+I build scalable backends, tame microservices, and automate anything that looks repetitive. I also love creating full-stack apps and turning random ideas into real projects.<br>
 
 
 ## 🌐 Socials:
