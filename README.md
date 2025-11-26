@@ -49,7 +49,6 @@ I build scalable backends, tame chaotic microservices, and automate anything tha
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=1C78C0)
 
 ## 📊 GitHub Stats
-*(If images don't load, it's likely a temporary API rate limit—try refreshing or self-host!)*
 
 <div align="center">
 
