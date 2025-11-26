@@ -49,26 +49,31 @@ I build scalable backends, tame chaotic microservices, and automate anything tha
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=1C78C0)
 
 ## 📊 GitHub Stats
+*(If images don't load, it's likely a temporary API rate limit—try refreshing or self-host!)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nischay-chauhan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nischay-chauhan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nischay-chauhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nischay-chauhan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+*GitHub Stats Card* – [View Source](https://github.com/nischay-chauhan)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nischay-chauhan&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+*Streak Stats* – [View Source](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nischay-chauhan&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+*Top Languages* – [View Source](https://github.com/nischay-chauhan)
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nischay-chauhan&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nischay-chauhan&theme=radical&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <!-- Made with love and too much coffee ☕ -->
